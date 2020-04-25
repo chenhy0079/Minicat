@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Server>
+    <Service>
+        <Connector port="8888">
+            <Engine>
+                <Host name="localhost" appBase="E:\lagou\Minicat\src\main\webapps"/>
+            </Engine>
+        </Connector>
+    </Service>
+</Server>

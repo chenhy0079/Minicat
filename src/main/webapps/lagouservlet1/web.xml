@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-app>
+    <servlet>
+        <servlet-name>lagou1</servlet-name>
+        <servlet-class>lagou1.LagouServlet1</servlet-class>
+    </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>lagou1</servlet-name>
+        <url-pattern>/lagou1</url-pattern>
+    </servlet-mapping>
+</web-app>
